@@ -1,0 +1,298 @@
+player	matchup	datetime	fp	cost	value	min	pts	reb	ast	stl	blk	to
+Russell Westbrook PG	IND  @  OKC	Wed 8:00pm	63.1	11,400	5.54	34.29	31.6	10.3	9.7	1.7	0.3	5.1
+James Harden PG/SG	HOU  @  PHI	Wed 7:00pm	59.6	11,600	5.14	35.89	28.6	8	11.0	1.7	0.3	5.1
+LeBron James SF/PF	CLE  @  BKN	Wed 7:30pm	53.9	10,400	5.18	36.84	26.5	7.9	9.6	1.6	0.5	4.3
+Kevin Durant SF/PF	TOR  @  GS	Wed 10:30pm	48.9	9,500	5.14	33.83	26.4	8.4	4.7	1.0	1.5	2.3
+John Wall PG	WSH  @  LAL	Wed 10:30pm	48.9	10,200	4.79	34.91	22.5	4.6	10.2	2.0	0.6	3.8
+Stephen Curry PG/SG	TOR  @  GS	Wed 10:30pm	48.6	8,700	5.59	35.93	27.4	5	6.8	1.9	0.3	3.6
+Karl-Anthony Towns C	MIN  @  DET	Wed 7:00pm	46.7	8,600	5.43	36.90	24.1	11.7	2.2	0.7	1.2	2.6
+Joel Embiid PF/C	HOU  @  PHI	Wed 7:00pm	45.2	8,000	5.65	33.62	21.8	11	2.6	1.2	1.8	3.7
+Kyle Lowry PG	TOR  @  GS	Wed 10:30pm	45.2	7,700	5.86	37.19	21.7	5.2	8.2	2.2	0.3	2.7
+Chris Paul PG/SG	HOU  @  PHI OUT	Wed 7:00pm	44.9	8,000	5.62	32.85	24.1	4.9	7.2	1.7	0.2	3.4
+Kemba Walker PG	DEN  @  CHA	Wed 7:00pm	44.9	7,700	5.83	37.72	26.4	3.9	5.9	1.5	0.5	2.1
+Kevin Love PF/C	CLE  @  BKN	Wed 7:30pm	43.8	7,600	5.76	33.85	20.6	10.9	3.5	1.2	0.7	2.4
+Paul George SF	IND  @  OKC	Wed 8:00pm	42.4	8,000	5.3	35.39	25.4	6.3	3.9	1.5	0.4	3.5
+Andre Drummond C	MIN  @  DET	Wed 7:00pm	40.1	7,900	5.07	30.13	15.0	14.3	1.1	1.4	1.1	1.9
+Kawhi Leonard SF/PF	SA  @  MIA OUT	Wed 8:00pm	39.7	8,100	4.9	33.28	23.1	5.7	3.5	1.4	0.6	2.1
+DeMar DeRozan SG/SF	TOR  @  GS	Wed 10:30pm	39.2	8,200	4.78	36.87	24.6	4.8	4.6	1.1	0.1	2.3
+Rudy Gobert C	UTAH  @  PHX	Wed 10:00pm	39.1	7,500	5.21	33.10	13.5	12.7	1.2	0.6	3.0	1.6
+Nikola Jokic PF/C	DEN  @  CHA	Wed 7:00pm	38.9	8,900	4.37	28.56	16.9	9.7	5.0	0.9	0.7	2.3
+Paul Millsap PF/C	DEN  @  CHA	Wed 7:00pm	38.9	6,700	5.8	37.34	19.7	8	3.9	1.5	0.6	2.7
+Draymond Green PF/C	TOR  @  GS	Wed 10:30pm	38.4	7,200	5.33	33.32	11.5	7.8	7.0	2.0	1.5	2.2
+Bradley Beal SG	WSH  @  LAL	Wed 10:30pm	38.2	7,300	5.23	34.34	25.7	3	3.8	1.1	0.2	2.2
+Eric Bledsoe PG/SG	UTAH  @  PHX OUT	Wed 10:00pm	38.1	6,500	5.86	35.32	20.3	4.9	6.3	1.3	0.4	3.7
+Dwight Howard C	DEN  @  CHA	Wed 7:00pm	37.5	7,100	5.27	33.97	15.0	12.8	1.2	0.5	1.6	2.1
+Mike Conley PG	MEM  @  DAL	Wed 8:30pm	37.4	7,200	5.19	33.03	18.7	3.8	6.8	1.8	0.1	2.0
+Gary Harris SG	DEN  @  CHA	Wed 7:00pm	37.1	5,000	7.41	35.89	23.2	4	3.1	1.4	0.3	2.0
+Carmelo Anthony SF/PF	IND  @  OKC	Wed 8:00pm	37.0	7,100	5.21	34.94	22.7	5.8	3.0	0.8	0.5	2.5
+Jeff Teague PG	MIN  @  DET	Wed 7:00pm	36.8	6,200	5.94	33.62	15.2	4.4	8.8	1.6	0.3	2.8
+D'Angelo Russell PG	CLE  @  BKN	Wed 7:30pm	36.1	7,800	4.63	34.83	17.5	4.7	5.7	1.9	0.4	3.1
+Ricky Rubio PG	UTAH  @  PHX	Wed 10:00pm	35.9	6,800	5.28	34.31	12.4	4.8	9.2	2.3	0.1	2.9
+Brook Lopez C	WSH  @  LAL	Wed 10:30pm	35.4	6,000	5.9	30.66	20.3	5.9	2.6	0.5	1.7	2.3
+Marc Gasol C	MEM  @  DAL	Wed 8:30pm	35.2	7,800	4.52	35.46	17.3	6.9	4.3	0.5	1.3	2.4
+Goran Dragic PG	SA  @  MIA	Wed 8:00pm	34.4	6,300	5.46	35.29	19.2	3.6	5.9	1.1	0.2	2.7
+Rudy Gay SF/PF	SA  @  MIA	Wed 8:00pm	33.8	4,900	6.89	34.00	17.7	6.2	2.8	1.6	0.8	2.4
+Myles Turner C	IND  @  OKC OUT	Wed 8:00pm	32.0	7,900	4.05	31.31	13.6	7.8	1.3	0.8	2.7	1.4
+Serge Ibaka PF/C	TOR  @  GS	Wed 10:30pm	32.0	5,400	5.92	33.98	15.0	8.2	1.3	0.7	1.9	1.6
+Devin Booker SG/SF	UTAH  @  PHX	Wed 10:00pm	31.9	6,900	4.62	35.13	20.6	3.4	3.6	0.9	0.3	3.1
+Klay Thompson SG	TOR  @  GS	Wed 10:30pm	31.8	6,600	4.82	34.08	20.9	3.6	2.1	0.7	0.5	1.4
+Dirk Nowitzki PF/C	MEM  @  DAL	Wed 8:30pm	31.7	4,600	6.89	31.63	16.9	7.7	1.1	0.6	1.3	1.4
+LaMarcus Aldridge PF/C	SA  @  MIA	Wed 8:00pm	31.2	8,400	3.71	33.40	16.8	7.4	1.5	0.6	1.1	1.3
+Dwyane Wade PG/SG	CLE  @  BKN	Wed 7:30pm	31.0	5,200	5.97	30.70	17.1	2.9	4.3	1.9	0.3	2.5
+Andrew Wiggins SF/PF	MIN  @  DET	Wed 7:00pm	30.8	7,200	4.28	35.97	20.4	4	2.3	0.9	0.4	2.3
+Julius Randle PF/C	WSH  @  LAL	Wed 10:30pm	30.6	4,800	6.36	28.06	13.2	8.2	3.7	0.7	0.6	2.3
+Nerlens Noel C	MEM  @  DAL	Wed 8:30pm	30.1	4,800	6.27	30.22	12.1	8.3	1.3	1.6	1.5	1.3
+Pau Gasol PF/C	SA  @  MIA	Wed 8:00pm	29.8	5,000	5.97	28.97	12.6	8.3	2.5	0.3	1.4	1.3
+Dion Waiters SG/SF	SA  @  MIA	Wed 8:00pm	29.6	5,100	5.81	34.50	16.6	3.9	3.9	1.0	0.3	2.2
+Clint Capela C	HOU  @  PHI	Wed 7:00pm	29.6	6,200	4.77	25.21	13.0	8.7	1.2	0.6	1.7	1.4
+Marcin Gortat C	WSH  @  LAL	Wed 10:30pm	29.3	5,500	5.32	30.54	10.4	10.6	1.2	0.4	1.1	1.4
+Harrison Barnes SF/PF	MEM  @  DAL	Wed 8:30pm	29.0	5,200	5.58	35.73	19.1	4.5	1.4	0.9	0.3	1.4
+Derrick Favors PF/C	UTAH  @  PHX	Wed 10:00pm	28.9	5,000	5.78	25.86	12.8	7.7	1.4	1.2	1.1	1.1
+Dario Saric PF/C	HOU  @  PHI	Wed 7:00pm	28.7	5,000	5.74	27.74	13.8	7.2	2.3	0.9	0.7	2.5
+Robert Covington SF/PF	HOU  @  PHI	Wed 7:00pm	28.6	5,700	5.01	30.95	13.1	6.4	1.9	1.7	0.8	2.2
+Avery Bradley PG/SG	MIN  @  DET	Wed 7:00pm	28.4	5,000	5.69	35.34	15.4	4.3	3.2	1.2	0.2	1.6
+Tobias Harris SF/PF	MIN  @  DET	Wed 7:00pm	28.1	6,200	4.53	31.72	16.9	5	1.8	0.6	0.4	1.0
+Justise Winslow SF/PF	SA  @  MIA	Wed 8:00pm	28.0	4,000	6.99	35.27	13.4	4.4	4.1	1.3	0.2	2.0
+Wilson Chandler SF/PF	DEN  @  CHA	Wed 7:00pm	27.9	5,000	5.59	30.91	15.0	6.3	2.0	0.6	0.5	1.7
+James Johnson PF	SA  @  MIA	Wed 8:00pm	27.6	6,100	4.52	27.74	12.6	4.8	3.7	0.9	1.1	2.3
+Reggie Jackson PG	MIN  @  DET	Wed 7:00pm	27.4	6,000	4.57	28.57	13.9	3.2	5.1	1.0	0.1	1.9
+Jordan Clarkson PG/SG	WSH  @  LAL	Wed 10:30pm	27.3	4,900	5.58	31.23	16.6	3.1	3.0	1.1	0.1	2.1
+Otto Porter SF/PF	WSH  @  LAL	Wed 10:30pm	27.3	5,900	4.63	31.18	13.3	5.9	1.3	1.7	0.3	0.7
+Jerryd Bayless PG/SG	HOU  @  PHI	Wed 7:00pm	26.9	4,000	6.73	29.72	13.7	3.4	4.6	1.0	0.3	2.5
+Eric Gordon SG	HOU  @  PHI	Wed 7:00pm	26.9	6,000	4.48	30.53	16.1	3.1	2.6	0.6	0.5	1.5
+Kentavious Caldwell-Pope SG	WSH  @  LAL	Wed 10:30pm	26.9	4,700	5.72	31.88	15.3	3.9	2.5	1.1	0.3	1.6
+Tristan Thompson PF/C	CLE  @  BKN GTD	Wed 7:30pm	26.4	4,000	6.61	28.53	9.3	9.9	0.7	0.4	1.7	1.0
+Jae Crowder SF/PF	CLE  @  BKN	Wed 7:30pm	26.3	4,900	5.36	28.98	13.5	4.9	2.0	1.2	0.4	1.1
+Marvin Williams SF/PF	DEN  @  CHA	Wed 7:00pm	25.7	3,800	6.75	29.72	12.0	6.4	1.2	0.9	0.8	0.7
+DeMarre Carroll SF/PF	CLE  @  BKN	Wed 7:30pm	25.4	5,200	4.88	29.38	13.5	4.8	1.2	1.3	0.5	1.0
+Steven Adams C	IND  @  OKC	Wed 8:00pm	25.2	5,800	4.35	29.91	11.0	7.9	1.0	1.0	0.9	1.9
+Trevor Booker PF/C	CLE  @  BKN	Wed 7:30pm	25.2	5,900	4.27	24.40	10.3	7.5	2.1	1.3	0.3	2.0
+Cody Zeller C	DEN  @  CHA OUT	Wed 7:00pm	24.7	4,000	6.17	26.31	10.2	6.3	1.6	1.1	1.2	0.9
+Will Barton SG/SF	DEN  @  CHA	Wed 7:00pm	24.6	5,600	4.4	28.83	11.5	4.7	3.2	1.0	0.3	1.6
+Tyler Johnson PG/SG	SA  @  MIA	Wed 8:00pm	24.2	4,300	5.63	29.27	12.0	3.9	2.9	0.8	0.7	1.2
+Wesley Matthews SG/SF	MEM  @  DAL	Wed 8:30pm	24.1	4,800	5.02	34.19	12.8	3.5	2.6	1.1	0.3	1.5
+Rondae Hollis-Jefferson SF/PF	CLE  @  BKN	Wed 7:30pm	24.1	5,000	4.81	23.05	10.1	6.4	2.0	1.2	0.6	1.6
+Nick Young SG	TOR  @  GS	Wed 10:30pm	24.0	3,700	6.48	32.28	14.4	3.5	1.8	0.6	0.3	1.1
+Victor Oladipo PG/SG	IND  @  OKC	Wed 8:00pm	23.9	7,200	3.31	31.26	12.9	3.6	2.6	1.2	0.2	1.9
+Michael Kidd-Gilchrist SF	DEN  @  CHA OUT	Wed 7:00pm	23.7	4,500	5.26	29.59	9.1	6.9	1.3	0.9	1.2	0.7
+Jonas Valanciunas C	TOR  @  GS OUT	Wed 10:30pm	23.5	5,000	4.71	28.09	9.3	8.9	1.0	0.3	0.8	1.2
+Thaddeus Young SF/PF	IND  @  OKC	Wed 8:00pm	23.4	5,600	4.18	30.00	10.4	5.9	1.6	1.5	0.3	1.3
+J.J. Redick SG/SF	HOU  @  PHI	Wed 7:00pm	23.4	4,400	5.31	28.38	15.2	3.1	1.5	0.7	0.2	1.7
+Tyreke Evans SG/SF	MEM  @  DAL	Wed 8:30pm	23.3	4,300	5.41	25.33	11.7	2.9	3.8	1.0	0.1	1.9
+Jose Juan Barea PG/SG	MEM  @  DAL	Wed 8:30pm	23.2	4,700	4.93	27.38	12.1	2.6	4.4	0.6	0.1	1.8
+Donovan Mitchell PG/SG	UTAH  @  PHX	Wed 10:00pm	22.9	3,800	6.02	27.57	11.2	5.3	1.9	0.8	0.4	1.5
+Markelle Fultz PG/SG	HOU  @  PHI	Wed 7:00pm	22.9	4,400	5.2	25.12	11.6	5.1	1.8	0.8	0.3	1.1
+Ben Simmons PG/SF	HOU  @  PHI	Wed 7:00pm	22.9	8,800	2.6	25.12	11.6	5.1	1.8	0.8	0.3	1.1
+Frank Kaminsky PF/C	DEN  @  CHA	Wed 7:00pm	22.8	5,000	4.56	27.24	12.3	4.4	2.1	0.5	0.4	1.2
+Darren Collison PG	IND  @  OKC	Wed 8:00pm	22.8	5,900	3.86	25.60	11.6	2.5	4.0	1.0	0.1	1.9
+Sean Kilpatrick PG/SG	CLE  @  BKN OUT	Wed 7:30pm	22.6	4,000	5.65	26.39	13.4	3.6	2.4	0.6	0.1	2.2
+Lonzo Ball PG	WSH  @  LAL	Wed 10:30pm	22.6	7,000	3.23	26.97	11.7	4.4	1.6	0.9	0.6	1.4
+Tim Frazier PG	WSH  @  LAL	Wed 10:30pm	22.5	3,700	6.09	24.70	7.9	2.5	6.2	1.3	0.1	2.0
+T.J. Warren SF/PF	UTAH  @  PHX	Wed 10:00pm	22.4	4,500	4.97	29.08	12.4	4.6	1.1	0.9	0.4	0.9
+Ishmael Smith PG	MIN  @  DET	Wed 7:00pm	22.3	3,800	5.88	23.68	8.9	2.7	5.2	0.9	0.5	1.4
+Thabo Sefolosha SG/SF	UTAH  @  PHX	Wed 10:00pm	22.3	3,500	6.37	27.43	8.7	5	1.9	2.0	0.5	1.5
+Ryan Anderson PF/C	HOU  @  PHI	Wed 7:00pm	21.9	4,200	5.2	30.40	12.2	4.4	1.3	0.5	0.3	1.0
+Jeremy Lamb SG/SF	DEN  @  CHA	Wed 7:00pm	21.9	5,600	3.9	20.46	11.5	5.2	1.2	0.6	0.4	0.7
+Yogi Ferrell PG/SG	MEM  @  DAL	Wed 8:30pm	21.8	4,500	4.85	27.62	10.6	2.5	4.1	1.0	0.1	1.5
+Jamal Crawford SG	MIN  @  DET	Wed 7:00pm	21.8	3,900	5.59	27.89	13.8	2.2	2.4	0.7	0.2	2.1
+P.J. Tucker SF/PF	HOU  @  PHI	Wed 7:00pm	21.7	4,400	4.93	28.53	8.4	5.5	1.6	1.5	0.4	0.9
+Taj Gibson PF/C	MIN  @  DET	Wed 7:00pm	21.7	4,300	5.03	26.58	10.4	6.2	0.8	0.5	0.9	1.2
+Allen Crabbe SG/SF	CLE  @  BKN	Wed 7:30pm	21.5	4,900	4.38	29.40	11.6	3.5	1.7	0.9	0.1	1.0
+Emmanuel Mudiay PG	DEN  @  CHA	Wed 7:00pm	21.4	3,900	5.49	23.40	9.8	3.1	3.7	0.9	0.4	1.9
+Jon Leuer PF/C	MIN  @  DET	Wed 7:00pm	21.3	3,400	6.26	25.82	10.5	5.6	1.6	0.4	0.3	0.8
+Rodney Hood SG/SF	UTAH  @  PHX OUT	Wed 10:00pm	21.2	5,100	4.15	27.01	11.5	3.5	1.9	0.8	0.4	1.3
+Luol Deng SF/PF	WSH  @  LAL	Wed 10:30pm	21.2	3,100	6.82	29.28	9.6	5	1.8	0.8	0.4	1.2
+Dillon Brooks SG/SF	MEM  @  DAL	Wed 8:30pm	20.7	4,500	4.61	28.06	9.7	4.5	2.1	0.6	0.5	1.3
+Larry Nance Jr. SF/PF	WSH  @  LAL	Wed 10:30pm	20.6	4,800	4.3	22.68	7.1	5.9	1.7	1.4	0.6	0.9
+Brandan Wright PF/C	MEM  @  DAL	Wed 8:30pm	20.6	3,500	5.89	22.02	9.5	5.9	0.6	0.6	1.1	1.1
+Alex Len PF/C	UTAH  @  PHX	Wed 10:00pm	20.5	4,000	5.13	24.18	8.7	7	0.3	0.5	1.2	1.6
+J.R. Smith SG/SF	CLE  @  BKN GTD	Wed 7:30pm	20.4	4,000	5.09	27.39	10.2	3.3	1.9	1.2	0.3	1.0
+Cory Joseph PG	IND  @  OKC	Wed 8:00pm	20.4	3,800	5.36	25.33	10.0	2.6	3.5	0.9	0.1	1.5
+Andre Iguodala SG/SF	TOR  @  GS	Wed 10:30pm	20.3	3,900	5.21	26.20	7.7	3.9	3.4	0.9	0.5	1.0
+Brandon Ingram SG/SF	WSH  @  LAL	Wed 10:30pm	20.3	5,200	3.91	29.01	10.2	4.1	2.1	0.7	0.4	1.5
+Wayne Ellington SG/SF	SA  @  MIA	Wed 8:00pm	20.2	3,500	5.77	11.26	12.0	2.8	1.2	0.8	0.2	1.0
+Ivica Zubac C	WSH  @  LAL	Wed 10:30pm	20.2	3,800	5.31	19.97	9.5	5.3	0.9	0.4	1.2	1.1
+Joe Johnson SG/SF	UTAH  @  PHX	Wed 10:00pm	20.0	3,700	5.41	24.84	11.2	3.3	1.8	0.5	0.3	1.0
+Kelly Olynyk PF/C	SA  @  MIA	Wed 8:00pm	20.0	5,600	3.56	22.33	9.3	5.4	1.3	0.6	0.6	1.5
+Amir Johnson PF/C	HOU  @  PHI	Wed 7:00pm	19.8	3,300	6.01	21.14	7.5	6.3	1.3	0.7	0.8	1.3
+Andrew Bogut C	WSH  @  LAL	Wed 10:30pm	19.8	3,000	6.59	23.22	6.7	6.5	1.1	0.5	1.5	1.4
+Bojan Bogdanovic SG/SF	IND  @  OKC	Wed 8:00pm	19.3	4,000	4.82	23.58	11.5	3.9	1.2	0.4	0.1	1.4
+Josh Richardson SG/SF	SA  @  MIA	Wed 8:00pm	18.9	5,400	3.5	27.92	8.7	3.4	2.5	0.9	0.3	1.2
+Timofey Mozgov C	CLE  @  BKN	Wed 7:30pm	18.9	3,300	5.72	19.79	7.4	6.3	0.8	0.4	1.1	1.2
+Marquese Chriss PF/C	UTAH  @  PHX	Wed 10:00pm	18.7	4,100	4.57	22.80	9.4	3.9	0.9	0.9	0.7	1.3
+Norman Powell SG/SF	TOR  @  GS	Wed 10:30pm	18.6	4,600	4.04	24.33	10.2	2.8	1.9	0.7	0.2	1.1
+Andre Roberson SG/SF	IND  @  OKC	Wed 8:00pm	18.5	3,700	5	29.57	6.3	4.8	1.1	1.2	1.1	0.6
+Patrick Mills PG	SA  @  MIA	Wed 8:00pm	18.4	3,500	5.26	22.80	9.7	1.8	3.1	0.7	0.1	1.4
+Joe Ingles SG/SF	UTAH  @  PHX	Wed 10:00pm	17.7	5,300	3.34	23.36	6.5	3.1	2.8	1.3	0.2	1.2
+Alan Williams C	UTAH  @  PHX GTD	Wed 10:00pm	17.6	3,400	5.18	17.43	7.5	5.6	0.6	0.6	0.7	0.8
+Lance Stephenson SG/SF	IND  @  OKC	Wed 8:00pm	17.6	4,300	4.09	22.52	8.5	2.5	3.5	0.4	0.1	1.6
+Dennis Smith PG	MEM  @  DAL	Wed 8:30pm	17.5	N/A	N/A	24.01	8.7	3.9	1.3	0.7	0.3	1.2
+Tyler Ulis PG	UTAH  @  PHX	Wed 10:00pm	17.4	4,000	4.36	21.90	8.2	2.3	3.4	0.6	0.1	1.4
+Danny Green SG/SF	SA  @  MIA	Wed 8:00pm	17.4	4,900	3.55	26.07	6.9	3.4	1.8	0.8	0.8	0.9
+Josh Jackson SG/SF	UTAH  @  PHX	Wed 10:00pm	17.4	4,100	4.24	24.97	9.2	3.4	1.2	0.8	0.3	1.0
+Mason Plumlee PF/C	DEN  @  CHA	Wed 7:00pm	17.4	3,300	5.27	15.78	6.5	5.2	1.8	0.5	0.6	1.1
+Jamal Murray PG/SG	DEN  @  CHA	Wed 7:00pm	17.1	4,500	3.81	19.69	9.0	2.5	2.0	0.7	0.3	1.3
+Jahlil Okafor C	HOU  @  PHI	Wed 7:00pm	17.1	4,000	4.27	6.80	8.4	4.7	0.9	0.3	0.8	1.5
+Ian Mahinmi C	WSH  @  LAL	Wed 10:30pm	17.0	4,000	4.26	19.11	5.7	5.1	1.1	0.8	1.1	1.1
+Quincy Acy PF/C	CLE  @  BKN	Wed 7:30pm	16.8	3,000	5.61	17.11	7.8	4.1	1.1	0.5	0.6	0.8
+Jeff Green SF/PF	CLE  @  BKN	Wed 7:30pm	16.8	3,000	5.58	23.97	9.2	2.8	1.2	0.8	0.2	1.0
+Stanley Johnson SG/SF	MIN  @  DET	Wed 7:00pm	16.7	3,800	4.4	25.80	6.8	2.9	2.9	0.9	0.3	1.3
+Caris LeVert PG/SF	CLE  @  BKN	Wed 7:30pm	16.7	5,100	3.27	22.59	7.9	2.8	2.3	0.9	0.1	1.4
+Zaza Pachulia C	TOR  @  GS	Wed 10:30pm	16.7	3,400	4.9	15.57	6.0	5.3	1.6	0.7	0.4	1.1
+Luc Mbah a Moute SF/PF	HOU  @  PHI	Wed 7:00pm	16.7	3,700	4.5	22.62	7.9	3	0.9	1.3	0.4	0.8
+Delon Wright PG/SG	TOR  @  GS	Wed 10:30pm	16.4	3,900	4.21	20.23	7.0	2.9	2.4	0.9	0.2	1.0
+Tyson Chandler C	UTAH  @  PHX	Wed 10:00pm	16.2	4,000	4.04	20.21	6.4	5.1	0.5	0.4	1.2	1.1
+Al Jefferson PF/C	IND  @  OKC	Wed 8:00pm	16.2	3,900	4.14	12.26	8.1	4.6	1.0	0.3	0.2	0.5
+T.J. McConnell PG	HOU  @  PHI	Wed 7:00pm	16.1	3,000	5.37	17.72	5.1	2	4.3	1.1	0.2	1.3
+C.J. Miles SG/SF	TOR  @  GS	Wed 10:30pm	16.0	3,900	4.11	25.23	9.3	2.3	0.9	0.8	0.2	1.0
+Alec Burks PG/SG	UTAH  @  PHX	Wed 10:00pm	15.9	3,400	4.66	19.58	8.6	2.8	1.4	0.5	0.3	0.9
+James Ennis SG/SF	MEM  @  DAL	Wed 8:30pm	15.4	4,000	3.84	22.70	6.3	4.5	1.1	0.6	0.3	0.8
+Jason Smith PF/C	WSH  @  LAL OUT	Wed 10:30pm	15.2	4,000	3.79	14.13	5.8	4.3	0.4	0.3	1.5	0.6
+Devin Harris PG/SG	MEM  @  DAL OUT	Wed 8:30pm	15.2	3,000	5.05	18.14	7.3	2	2.4	0.9	0.1	1.1
+Patrick Patterson PF/C	IND  @  OKC	Wed 8:00pm	15.0	3,100	4.85	23.33	6.1	4.1	1.1	0.6	0.3	0.5
+Nemanja Bjelica SF/PF	MIN  @  DET	Wed 7:00pm	14.9	3,100	4.8	17.97	6.1	3.7	1.5	0.6	0.4	1.0
+Manu Ginobili SG/SF	SA  @  MIA	Wed 8:00pm	14.6	3,600	4.05	16.84	6.0	2.1	2.4	1.0	0.3	1.5
+Raymond Felton PG/SG	IND  @  OKC	Wed 8:00pm	14.6	3,000	4.85	19.68	5.9	2.4	2.1	1.1	0.2	0.9
+Iman Shumpert PG/SG	CLE  @  BKN	Wed 7:30pm	14.5	3,900	3.71	23.42	6.5	2.8	1.4	0.8	0.3	0.9
+Tyus Jones PG/SG	MIN  @  DET	Wed 7:00pm	14.4	3,000	4.79	16.85	5.1	1.9	3.3	1.0	0.1	1.3
+Domantas Sabonis PF/C	IND  @  OKC	Wed 8:00pm	14.2	5,000	2.84	19.98	6.8	3.6	1.1	0.4	0.3	0.8
+David West PF/C	TOR  @  GS	Wed 10:30pm	14.2	3,000	4.73	9.41	4.7	3.1	2.4	0.5	0.7	0.9
+Shabazz Muhammad SG/SF	MIN  @  DET	Wed 7:00pm	13.9	3,000	4.62	18.00	9.5	2.4	0.4	0.3	0.1	0.7
+Kelly Oubre SG/SF	WSH  @  LAL	Wed 10:30pm	13.7	4,200	3.27	18.79	6.5	3.1	0.8	0.7	0.3	0.5
+Tyler Ennis PG/SG	WSH  @  LAL	Wed 10:30pm	13.5	3,000	4.5	16.97	6.3	1.4	2.7	0.9	0.1	1.5
+Jeff Withey C	MEM  @  DAL	Wed 8:30pm	13.5	3,000	4.49	4.66	5.2	4.3	0.4	0.2	1.1	0.6
+Josh McRoberts PF/C	MEM  @  DAL OUT	Wed 8:30pm	13.3	3,000	4.42	19.94	5.9	2.6	1.7	0.6	0.3	1.1
+Jakob Poeltl PF/C	TOR  @  GS	Wed 10:30pm	13.0	4,500	2.89	14.77	4.3	5	0.6	0.3	0.7	0.9
+Andrew Harrison PG/SG	MEM  @  DAL	Wed 8:30pm	13.0	3,400	3.82	19.34	5.4	1.8	2.5	0.6	0.3	1.0
+Joffrey Lauvergne PF/C	SA  @  MIA GTD	Wed 8:00pm	12.9	3,000	4.31	14.29	6.4	3.5	0.7	0.4	0.3	0.8
+Dragan Bender PF/C	UTAH  @  PHX	Wed 10:00pm	12.9	3,000	4.31	16.19	4.1	4.5	0.8	0.4	0.8	0.8
+Gorgui Dieng PF/C	MIN  @  DET	Wed 7:00pm	12.5	3,600	3.48	15.42	4.6	3.9	0.9	0.5	0.5	0.7
+Dwight Powell PF/C	MEM  @  DAL	Wed 8:30pm	12.5	3,100	4.02	13.89	5.8	3.4	0.5	0.5	0.4	0.4
+Isaiah Whitehead PG/SG	CLE  @  BKN	Wed 7:30pm	12.4	3,000	4.14	8.01	4.8	1.5	3.0	0.6	0.2	1.4
+Dwayne Bacon SG/SF	DEN  @  CHA	Wed 7:00pm	12.3	3,400	3.61	12.22	6.0	2.9	0.9	0.5	0.2	0.9
+Malik Monk PG/SG	DEN  @  CHA	Wed 7:00pm	12.3	3,300	3.72	12.22	6.0	2.9	0.9	0.5	0.2	0.9
+JaVale McGee C	TOR  @  GS	Wed 10:30pm	12.3	3,000	4.08	4.54	5.8	3.2	0.2	0.2	1.0	0.5
+Jerami Grant SF/PF	IND  @  OKC	Wed 8:00pm	12.2	3,100	3.94	17.02	5.5	2.8	0.6	0.3	0.9	0.7
+Deyonta Davis PF/C	MEM  @  DAL	Wed 8:30pm	12.1	3,000	4.02	4.68	4.0	3.8	0.4	0.3	1.2	0.6
+Chinanu Onuaku PF/C	HOU  @  PHI	Wed 7:00pm	12.0	3,000	3.98	3.22	4.4	3.6	0.5	0.5	0.8	0.7
+Spencer Dinwiddie PG/SG	CLE  @  BKN	Wed 7:30pm	11.9	4,200	2.82	4.99	5.4	2	1.6	0.6	0.2	0.9
+Bryn Forbes PG/SG	SA  @  MIA	Wed 8:00pm	11.9	3,000	3.95	5.75	6.8	1.8	1.3	0.3	0.0	0.6
+Shaun Livingston PG/SG	TOR  @  GS	Wed 10:30pm	11.8	3,600	3.28	15.07	5.2	2	2.0	0.5	0.3	1.0
+Raul Neto PG	UTAH  @  PHX	Wed 10:00pm	11.8	3,000	3.92	5.24	4.6	2	2.0	0.8	0.1	0.8
+Timothe Luwawu SG/SF	HOU  @  PHI	Wed 7:00pm	11.7	3,200	3.66	4.52	6.6	1.8	1.0	0.5	0.2	1.0
+Mike Scott PF	WSH  @  LAL	Wed 10:30pm	11.3	3,000	3.78	13.27	4.3	3.5	1.0	0.4	0.3	0.6
+Kyle Korver SG/SF	CLE  @  BKN	Wed 7:30pm	11.3	3,300	3.42	14.23	5.8	2	1.1	0.3	0.2	0.6
+Kyle Kuzma SF/PF	WSH  @  LAL	Wed 10:30pm	11.2	4,700	2.38	10.15	5.4	2.5	0.9	0.5	0.2	0.8
+James Michael McAdoo PF	HOU  @  PHI	Wed 7:00pm	11.1	3,000	3.7	0.12	4.5	3.4	0.4	0.4	0.6	0.6
+Dorian Finney-Smith SF	MEM  @  DAL	Wed 8:30pm	11.1	3,000	3.69	18.70	4.5	2.5	0.9	0.7	0.3	0.5
+Dejounte Murray PG	SA  @  MIA	Wed 8:00pm	11.0	5,800	1.89	11.72	5.8	1.5	1.9	0.3	0.1	1.3
+Troy Williams SG	HOU  @  PHI	Wed 7:00pm	10.8	3,000	3.59	3.94	5.1	1.7	1.0	0.8	0.2	0.6
+Zhou Qi PF/C	HOU  @  PHI	Wed 7:00pm	10.6	3,000	3.53	0.13	4.6	2.8	1.0	0.4	0.2	0.7
+Jodie Meeks SG	WSH  @  LAL	Wed 10:30pm	10.6	3,300	3.2	12.58	5.5	1.7	1.0	0.6	0.1	0.5
+Furkan Korkmaz SG/SF	HOU  @  PHI	Wed 7:00pm	10.5	3,000	3.49	0.12	5.7	1.9	0.8	0.4	0.1	0.5
+Jarell Martin PF/C	MEM  @  DAL	Wed 8:30pm	10.1	3,900	2.59	14.65	3.9	3.8	0.4	0.2	0.4	0.7
+Wayne Selden Jr. PG/SG	MEM  @  DAL OUT	Wed 8:30pm	10.0	3,000	3.33	19.35	4.7	1.8	1.4	0.5	0.1	1.0
+Kenneth Faried PF/C	DEN  @  CHA	Wed 7:00pm	9.9	4,000	2.48	10.32	4.4	2.8	0.5	0.4	0.3	0.4
+Langston Galloway PG/SG	MIN  @  DET	Wed 7:00pm	9.8	3,100	3.15	6.15	5.1	1.5	1.0	0.5	0.1	0.5
+Johnny O'Bryant III PF/C	DEN  @  CHA	Wed 7:00pm	9.7	3,000	3.23	1.85	4.3	3.1	0.5	0.3	0.2	0.5
+Ante Zizic PF/C	CLE  @  BKN	Wed 7:30pm	9.7	3,000	3.23	1.96	4.5	2.1	0.8	0.4	0.3	0.7
+Cedi Osman SG/SF	CLE  @  BKN	Wed 7:30pm	9.7	3,000	3.23	0.11	4.5	2.1	0.8	0.4	0.3	0.7
+Jordan Mickey PF/C	SA  @  MIA	Wed 8:00pm	9.7	3,000	3.23	2.67	3.4	3.3	0.4	0.3	0.6	0.5
+Chris McCullough PF/C	WSH  @  LAL	Wed 10:30pm	9.5	3,000	3.17	0.11	3.9	2.8	0.6	0.3	0.4	0.5
+Kyle Anderson SG/SF	SA  @  MIA	Wed 8:00pm	9.5	4,500	2.11	9.70	3.3	2.5	1.0	0.6	0.3	0.6
+Corey Brewer SG/SF	WSH  @  LAL	Wed 10:30pm	9.5	3,200	2.95	3.31	4.1	1.8	0.9	0.8	0.2	0.8
+Alex Abrines SG/SF	IND  @  OKC	Wed 8:00pm	9.3	3,100	3.01	11.88	5.8	1.1	0.5	0.4	0.1	0.6
+Aaron Brooks PG/SG	MIN  @  DET	Wed 7:00pm	9.3	3,000	3.09	3.82	4.0	1.1	2.1	0.5	0.1	1.3
+Anthony Tolliver SF/PF	MIN  @  DET	Wed 7:00pm	9.3	3,000	3.08	3.14	3.9	2.8	0.6	0.3	0.1	0.4
+Fred VanVleet PG	TOR  @  GS	Wed 10:30pm	9.2	3,000	3.05	7.58	3.7	1.2	1.5	0.7	0.2	0.7
+Patrick McCaw SG/SF	TOR  @  GS	Wed 10:30pm	9.1	3,300	2.76	12.13	4.0	1.6	1.1	0.5	0.2	0.4
+Carrick Felix SG/SF	WSH  @  LAL	Wed 10:30pm	8.9	3,000	2.95	1.34	4.4	1.8	0.6	0.4	0.2	0.5
+Demetrius Jackson PG	HOU  @  PHI	Wed 7:00pm	8.8	3,000	2.94	1.15	4.1	1.3	1.3	0.5	0.1	0.9
+Nick Collison PF/C	IND  @  OKC	Wed 8:00pm	8.7	3,000	2.88	0.10	3.0	3	0.5	0.2	0.5	0.5
+Trey Lyles SF/PF	DEN  @  CHA	Wed 7:00pm	8.6	3,000	2.88	1.66	4.2	1.9	0.4	0.4	0.3	0.5
+Thomas Bryant PF/C	WSH  @  LAL	Wed 10:30pm	8.6	3,100	2.76	0.11	4.2	1.8	0.6	0.4	0.2	0.7
+Josh Hart PG/SG	WSH  @  LAL	Wed 10:30pm	8.6	3,200	2.67	0.11	4.2	1.8	0.6	0.4	0.2	0.7
+Joe Harris SG/SF	CLE  @  BKN	Wed 7:30pm	8.6	3,400	2.51	2.83	4.6	1.8	0.6	0.4	0.1	0.8
+A.J. Hammons C	SA  @  MIA GTD	Wed 8:00pm	8.5	3,000	2.84	2.11	3.7	2.7	0.3	0.1	0.6	0.8
+Chandler Parsons SF/PF	MEM  @  DAL	Wed 8:30pm	8.5	3,300	2.58	15.55	4.2	1.9	0.8	0.4	0.1	0.6
+Tomas Satoransky PG/SG	WSH  @  LAL	Wed 10:30pm	8.5	3,000	2.82	3.10	3.2	1.4	1.6	0.5	0.2	0.9
+Malik Beasley PG	DEN  @  CHA	Wed 7:00pm	8.4	3,000	2.81	1.72	4.5	1.1	0.9	0.4	0.1	0.5
+Jose Calderon PG	CLE  @  BKN	Wed 7:30pm	8.4	3,000	2.81	12.27	2.8	1.3	2.4	0.2	0.1	0.8
+Troy Daniels SG	UTAH  @  PHX	Wed 10:00pm	8.2	3,000	2.74	3.72	4.9	1.5	0.5	0.1	0.2	0.6
+Luis Montero SF	MIN  @  DET	Wed 7:00pm	8.2	3,000	2.73	0.10	3.8	1.8	0.9	0.2	0.2	0.4
+Dwight Buycks PG	MIN  @  DET OUT	Wed 7:00pm	8.2	3,000	2.73	0.10	3.8	1.8	0.9	0.2	0.2	0.4
+Damian Jones C	TOR  @  GS GTD	Wed 10:30pm	8.2	3,000	2.73	0.10	2.8	3	0.2	0.2	0.6	0.5
+Mario Chalmers PG	MEM  @  DAL	Wed 8:30pm	8.1	3,700	2.2	7.27	3.8	2.3	0.5	0.2	0.2	0.7
+Lorenzo Brown PG	TOR  @  GS	Wed 10:30pm	8.1	3,000	2.71	0.11	4.1	1.7	0.7	0.3	0.1	0.4
+Udonis Haslem PF/C	SA  @  MIA	Wed 8:00pm	8.0	3,000	2.68	2.72	3.0	3.1	0.3	0.3	0.2	0.6
+Marcus Paige PG	DEN  @  CHA	Wed 7:00pm	8.0	3,000	2.68	0.10	3.5	1.9	0.7	0.4	0.2	0.6
+Kyle Singler SG/SF	IND  @  OKC	Wed 8:00pm	8.0	3,000	2.65	3.54	4.4	1.6	0.5	0.3	0.1	0.6
+Luke Kennard SG	MIN  @  DET	Wed 7:00pm	7.9	3,000	2.64	10.38	3.9	1.7	0.6	0.4	0.1	0.6
+Ike Anigbogu PF/C	IND  @  OKC	Wed 8:00pm	7.9	3,000	2.62	0.09	3.6	2	0.7	0.3	0.1	0.6
+Edmond Sumner PG	IND  @  OKC OUT	Wed 8:00pm	7.9	3,000	2.62	0.09	3.6	2	0.7	0.3	0.1	0.6
+Treveon Graham SG/SF	DEN  @  CHA	Wed 7:00pm	7.8	3,000	2.6	11.55	4.0	1.4	0.6	0.3	0.1	0.4
+Bruno Caboclo SF	TOR  @  GS	Wed 10:30pm	7.8	3,000	2.59	2.95	3.5	1.9	0.4	0.5	0.2	0.5
+Davis Bertans SF/PF	SA  @  MIA	Wed 8:00pm	7.7	3,000	2.58	1.71	3.8	1.7	0.5	0.3	0.2	0.5
+T.J. Leaf SF/PF	IND  @  OKC	Wed 8:00pm	7.6	3,000	2.52	9.27	3.3	2	0.5	0.3	0.2	0.4
+Rodney McGruder SG/SF	SA  @  MIA GTD	Wed 8:00pm	7.5	3,000	2.48	4.13	3.7	1.6	0.5	0.2	0.2	0.3
+Kevon Looney SF/PF	TOR  @  GS	Wed 10:30pm	7.5	3,000	2.48	1.07	2.9	2.4	0.2	0.2	0.5	0.4
+Cole Aldrich C	MIN  @  DET	Wed 7:00pm	7.5	3,000	2.48	1.31	1.8	2.6	0.5	0.4	0.5	0.3
+Anthony Brown SG/SF	MIN  @  DET OUT	Wed 7:00pm	7.4	3,000	2.48	2.45	3.5	1.5	0.7	0.4	0.1	0.4
+Ekpe Udoh PF/C	UTAH  @  PHX	Wed 10:00pm	7.4	3,000	2.46	1.87	4.0	1.7	0.5	0.2	0.1	0.6
+Tyler Lydon PF	DEN  @  CHA	Wed 7:00pm	7.4	3,000	2.46	1.51	3.4	1.7	0.8	0.2	0.2	0.5
+Tony Bradley PF/C	UTAH  @  PHX	Wed 10:00pm	7.4	3,000	2.46	0.11	4.0	1.7	0.5	0.2	0.1	0.6
+Monte Morris PG	DEN  @  CHA	Wed 7:00pm	7.4	3,000	2.46	0.10	3.4	1.7	0.8	0.2	0.2	0.5
+Kyle Wiltjer F	TOR  @  GS	Wed 10:30pm	7.3	N/A	N/A	0.10	3.3	1.8	0.5	0.4	0.2	0.6
+Eric Moreland PF/C	MIN  @  DET	Wed 7:00pm	7.3	3,000	2.42	9.70	3.3	1.8	0.6	0.3	0.1	0.5
+Joseph Young PG/SG	IND  @  OKC	Wed 8:00pm	7.0	3,000	2.33	1.34	3.7	1.1	0.9	0.2	0.1	0.4
+Jordan Bell PF/C	TOR  @  GS	Wed 10:30pm	6.9	3,300	2.08	0.08	3.2	1.8	0.4	0.2	0.2	0.3
+Daniel Hamilton SF	IND  @  OKC	Wed 8:00pm	6.7	3,000	2.23	0.09	3.4	1.5	0.6	0.2	0.1	0.5
+Dakari Johnson C	IND  @  OKC	Wed 8:00pm	6.7	3,000	2.23	1.03	3.4	1.5	0.6	0.2	0.1	0.5
+Terrance Ferguson SG/SF	IND  @  OKC	Wed 8:00pm	6.2	3,000	2.06	8.08	3.0	1.3	0.6	0.2	0.1	0.3
+Marcus Georges-Hunt SG/SF	MIN  @  DET	Wed 7:00pm	6.1	3,000	2.03	1.87	2.5	1.4	0.9	0.2	0.1	0.7
+Mike James PG	UTAH  @  PHX	Wed 10:00pm	5.9	4,400	1.34	8.35	3.3	1.3	0.4	0.1	0.1	0.4
+Jarrett Allen PF/C	CLE  @  BKN	Wed 7:30pm	4.5	3,600	1.26	5.71	2.3	1.1	0.2	0.2	0.0	0.2
+Derrick White PG/SG	SA  @  MIA	Wed 8:00pm	4.2	3,000	1.4	0.07	1.9	1.2	0.3	0.1	0.1	0.2
+Henry Ellenson PF/C	MIN  @  DET	Wed 7:00pm	4.0	3,000	1.33	4.34	2.1	1.2	0.2	0.0	0.1	0.3
+Gian Clavell PG	MEM  @  DAL	Wed 8:30pm	4.0	3,100	1.29	6.19	1.8	1	0.3	0.1	0.1	0.3
+OG Anunoby SF/PF	TOR  @  GS	Wed 10:30pm	3.9	3,000	1.3	5.47	1.8	0.8	0.4	0.1	0.1	0.3
+Darrell Arthur PF	DEN  @  CHA	Wed 7:00pm	1.6	3,000	0.54	0.65	0.7	0.3	0.1	0.1	0.1	0.1
+Omri Casspi SF/PF	TOR  @  GS	Wed 10:30pm	1.4	3,000	0.48	1.50	0.4	0.3	0.1	0.1	0.0	0.1
+Lucas Nogueira PF	TOR  @  GS	Wed 10:30pm	1.4	4,200	0.33	1.78	0.5	0.6	0.0	0.0	0.1	0.1
+Justin Anderson SF/PF	HOU  @  PHI	Wed 7:00pm	1.4	3,000	0.46	0.63	0.7	0.3	0.1	0.1	0.0	0.1
+Alex Caruso PG/SG	WSH  @  LAL	Wed 10:30pm	1.3	3,000	0.42	1.16	0.4	0.2	0.1	0.1	0.0	0.1
+Damien Wilkins SG/SF	IND  @  OKC	Wed 8:00pm	1.1	3,000	0.36	1.17	0.4	0.3	0.1	0.0	0.0	0.1
+Jonas Jerebko SF/PF	UTAH  @  PHX	Wed 10:00pm	0.7	3,500	0.19	0.89	0.3	0.3	0.0	0.0	0.0	0.0
+Ivan Rabb PF/C	MEM  @  DAL	Wed 8:30pm	0.6	3,000	0.21	0.12	0.0	0.5	0.0	0.0	0.0	0.0
+Okaro White SF/PF	SA  @  MIA GTD	Wed 8:00pm	0.6	3,000	0.19	0.20	0.2	0.3	0.0	0.0	0.0	0.0
+Nik Stauskas PG/SF	HOU  @  PHI	Wed 7:00pm	0.6	3,000	0.18	0.16	0.1	0	0.0	0.0	0.0	0.0
+Channing Frye PF/C	CLE  @  BKN	Wed 7:30pm	0.4	3,000	0.13	0.13	0.1	0	0.0	0.0	0.0	0.0
+Derrick Jones Jr. SF	UTAH  @  PHX	Wed 10:00pm	0.4	3,000	0.13	0.49	0.2	0.1	0.0	0.0	0.0	0.0
+Bam Adebayo PF/C	SA  @  MIA	Wed 8:00pm	0.3	3,000	0.11	0.61	0.2	0.1	0.0	0.0	0.0	0.0
+Darrun Hilliard SG/SF	SA  @  MIA	Wed 8:00pm	0.2	3,000	0.05	0.10	0.0	0	0.0	0.0	0.0	0.0
+Alec Peters SF/PF	UTAH  @  PHX	Wed 10:00pm	0.1	3,000	0.04	0.01	0.0	0.1	0.0	0.0	0.0	0.0
+Boban Marjanovic C	MIN  @  DET	Wed 7:00pm	0.1	3,400	0.03	0.11	0.1	0	0.0	0.0	0.0	0.0
+Nene Hilario C	HOU  @  PHI	Wed 7:00pm	0.0	3,400	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Jeremy Lin PG/SG	CLE  @  BKN OUT	Wed 7:30pm	0.0	4,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Tarik Black PF/C	HOU  @  PHI	Wed 7:00pm	0.0	3,300	0	0.06	0.0	0	0.0	0.0	0.0	0.0
+Richaun Holmes PF/C	HOU  @  PHI OUT	Wed 7:00pm	0.0	3,900	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Trevor Ariza SG/SF	HOU  @  PHI	Wed 7:00pm	0.0	4,400	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Julyan Stone PG/SG	DEN  @  CHA OUT	Wed 7:00pm	0.0	3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Reggie Bullock SG/SF	MIN  @  DET OUT	Wed 7:00pm	0.0	3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Jimmy Butler SG	MIN  @  DET OUT	Wed 7:00pm	0.0	7,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Justin Patton C	MIN  @  DET OUT	Wed 7:00pm	0.0	3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Derrick Rose PG	CLE  @  BKN OUT	Wed 7:30pm	0.0	4,900	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Michael Carter-Williams PG	DEN  @  CHA OUT	Wed 7:00pm	0.0	3,200	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Juan Hernangomez SF/PF	DEN  @  CHA OUT	Wed 7:00pm	0.0	3,800	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Davon Reed SG	UTAH  @  PHX OUT	Wed 10:00pm	0.0	3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Salah Mejri C	MEM  @  DAL	Wed 8:30pm	0.0	3,000	0	0.11	0.0	0	0.0	0.0	0.0	0.0
+Jared Dudley PF	UTAH  @  PHX	Wed 10:00pm	0.0	3,000	0	0.02	0.0	0	0.0	0.0	0.0	0.0
+Pascal Siakam PF	TOR  @  GS	Wed 10:30pm	0.0	3,000	0	0.14	0.0	0	0.0	0.0	0.0	0.0
+Markieff Morris SF/PF	WSH  @  LAL OUT	Wed 10:30pm	0.0	5,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+JaMychal Green SF/PF	MEM  @  DAL OUT	Wed 8:30pm	0.0	4,800	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Seth Curry PG/SG	MEM  @  DAL OUT	Wed 8:30pm	0.0	4,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Tony Parker PG	SA  @  MIA OUT	Wed 8:00pm	0.0	3,700	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Hassan Whiteside C	SA  @  MIA OUT	Wed 8:00pm	0.0	7,900	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Glenn Robinson III SG/SF	IND  @  OKC OUT	Wed 8:00pm	0.0	3,800	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Ben McLemore SG/SF	MEM  @  DAL OUT	Wed 8:30pm	0.0	3,500	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Tyler Zeller C	CLE  @  BKN	Wed 7:30pm	0.0	3,000	0	0.01	0.0	0	0.0	0.0	0.0	0.0
