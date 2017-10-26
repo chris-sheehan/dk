@@ -31,6 +31,8 @@ ROSTER_MAPPING = dict(
 ROSTER = dict(PG = None, SG = None, SF = None, PF = None, C = None, G = None, F = None, Util = None)
 SALARY_LIM = 50000
 
+BLACKLIST = ['Chris Paul', 'Kawhi Leonard', 'Dion Waiters']
+
 class Roster(object):
 	SALARY_LIM = 50000
 	def __init__(self, players):
@@ -137,13 +139,13 @@ def process_generation(rosters, last_gen = False):
 	return survivors, rosters
 
 
-def build_rosters_csv(rosters):
+def build_rosters_csv(rosters, save_as):
 	rows = set()
 	header = 'PG,SG,SF,PF,C,G,F,Util'
 	header_list = header.split(',')
 	for R in rosters:
 		rows.add(','.join([str(player_dict.get(R.roster[position].get('player'))) for position in header_list]))
-	with open('rosters/20171025test_upload.csv', 'w') as f:
+	with open(save_as, 'w') as f:
 		f.write(header)
 		f.write('\n')
 		for row in rows:
@@ -167,12 +169,22 @@ def main():
 	generation_states = {g : None for g in range(generations)}
 	
 	df = load_player_projections(FILEPATH)
+	df = df[df.player.isin(BLACKLIST) == False]
+
+	df.loc[df.player == 'Dennis Smith', 'cost'] = 6000
 
 	rosters = [Roster(df) for _ in range(population)]
+	alltime_score = 0
+	alltime = None
 	for g in range(generations):
 		last_gen = (g+1) == generations
 		rosters, state = process_generation(rosters, last_gen)
 		generation_states[g] = state
+		if rosters[0].total_score > alltime_score:
+			alltime = rosters[0]
+			alltime_score = rosters[0].total_score
 
 	results = rosters[:num_results]
-	build_rosters_csv(results)
+
+	build_rosters_csv(results, save_as = 'rosters/20171025test_upload.csv')
+
