@@ -1,0 +1,214 @@
+LeBron James SF	NY  @  CLE	Sun 7:00pm	53.2	$11,300	4.7	37.53	27.1	8	9.5	1.3	0.8	4.1
+Giannis Antetokounmpo SF	MIL  @  ATL	Sun 3:30pm	50.5	$12,400	4.07	36.07	23.0	9.5	5.4	1.9	1.8	3.1
+John Wall PG	WSH  @  SAC	Sun 6:00pm	48.8	$10,100	4.83	37.08	24.6	4	10.3	2.0	0.6	3.9
+Kevin Durant SF	DET  @  GS	Sun 8:30pm	48.7	$10,500	4.64	38.22	28.7	8.7	3.9	1.0	1.3	3.2
+Nikola Jokic C	DEN  @  BKN	Sun 6:00pm	46.1	$8,700	5.29	33.84	20.7	11.5	5.7	1.1	0.9	3.0
+Stephen Curry PG	DET  @  GS	Sun 8:30pm	44.3	$9,600	4.61	34.05	25.7	4.2	7.1	1.7	0.3	3.1
+Kevin Love C	NY  @  CLE	Sun 7:00pm	38.5	$7,700	5	32.41	20.4	11.1	2.4	0.8	0.4	2.4
+Kemba Walker PG	ORL  @  CHA	Sun 6:00pm	38.3	$8,300	4.61	36.24	22.9	4.6	5.3	1.0	0.4	2.3
+Andre Drummond C	DET  @  GS	Sun 8:30pm	37.7	$8,800	4.29	30.78	13.8	13.9	1.1	1.6	1.0	2.2
+Draymond Green PF	DET  @  GS	Sun 8:30pm	37.3	$7,800	4.78	32.68	10.2	7.8	6.9	2.0	1.3	2.5
+Paul Millsap PF	DEN  @  BKN	Sun 6:00pm	36.0	$6,800	5.29	29.96	17.5	7.5	2.6	1.4	1.1	1.9
+Kristaps Porzingis PF	NY  @  CLE	Sun 7:00pm	35.4	$9,100	3.89	33.17	18.7	7.5	1.4	0.8	1.6	1.6
+Nikola Vucevic C	ORL  @  CHA	Sun 6:00pm	34.9	$8,200	4.25	28.69	14.7	10	2.7	0.9	1.0	1.6
+Rondae Hollis-Jefferson PF	DEN  @  BKN	Sun 6:00pm	34.4	$5,900	5.82	33.02	15.2	9	2.9	1.4	0.8	2.6
+LaMarcus Aldridge PF	SA  @  IND	Sun 4:30pm	34.1	$8,900	3.83	33.33	18.2	7.4	2.1	0.6	1.2	1.5
+Bradley Beal SG	WSH  @  SAC	Sun 6:00pm	34.1	$7,600	4.48	35.14	21.6	3.5	4.3	0.9	0.4	2.1
+Dwight Howard C	ORL  @  CHA	Sun 6:00pm	33.6	$8,000	4.2	31.25	12.9	12	0.8	0.5	1.9	2.1
+D'Angelo Russell SG	DEN  @  BKN	Sun 6:00pm	33.3	$7,400	4.5	33.36	17.0	4.6	5.6	1.6	0.3	3.3
+Klay Thompson SG	DET  @  GS	Sun 8:30pm	32.2	$7,000	4.6	33.98	22.3	3.6	2.2	0.8	0.5	1.6
+Willie Cauley-Stein C	WSH  @  SAC	Sun 6:00pm	32.2	$5,900	5.45	32.98	14.2	8.3	2.0	1.1	1.2	1.9
+Gary Harris SG	DEN  @  BKN	Sun 6:00pm	31.5	$5,600	5.63	32.29	17.9	4.3	2.9	1.7	0.3	1.9
+Dennis Schroder PG	MIL  @  ATL	Sun 3:30pm	31.3	$8,200	3.81	31.70	18.6	2.8	6.0	0.9	0.2	3.0
+Wilson Chandler SF	DEN  @  BKN	Sun 6:00pm	30.5	$4,700	6.5	31.30	16.7	6.4	2.5	0.8	0.5	1.5
+Otto Porter PF	WSH  @  SAC	Sun 6:00pm	30.5	$7,600	4.01	32.63	15.0	6.5	2.0	1.2	0.6	0.7
+Khris Middleton SG	MIL  @  ATL	Sun 3:30pm	30.4	$6,900	4.41	32.36	16.4	4	3.6	1.7	0.3	2.2
+Marcin Gortat C	WSH  @  SAC	Sun 6:00pm	30.4	$6,200	4.9	33.44	12.0	10.9	1.6	0.5	0.9	1.3
+Victor Oladipo SG	SA  @  IND	Sun 4:30pm	29.0	$7,900	3.68	33.30	16.9	4.2	3.0	1.2	0.3	1.9
+Malcolm Brogdon PG	MIL  @  ATL	Sun 3:30pm	28.4	$6,300	4.5	34.36	14.3	3.3	5.2	1.4	0.1	2.2
+Pau Gasol C	SA  @  IND	Sun 4:30pm	28.4	$5,500	5.16	25.43	11.9	7.8	2.2	0.5	1.2	1.3
+Evan Fournier SF	ORL  @  CHA	Sun 6:00pm	27.7	$7,600	3.64	33.64	18.1	3.3	3.0	1.0	0.1	2.2
+Tobias Harris SF	DET  @  GS	Sun 8:30pm	27.7	$6,800	4.07	33.30	16.6	5.3	1.8	0.7	0.4	1.3
+Skal Labissiere PF	WSH  @  SAC	Sun 6:00pm	27.6	$5,000	5.51	29.05	13.1	8.1	1.3	0.7	0.8	1.7
+Enes Kanter C	NY  @  CLE	Sun 7:00pm	27.4	$5,700	4.81	25.19	14.1	7.7	1.3	0.5	0.7	1.5
+Caris LeVert SG	DEN  @  BKN	Sun 6:00pm	27.3	$5,700	4.79	34.74	14.1	4.5	3.6	1.3	0.2	2.1
+Will Barton SG	DEN  @  BKN	Sun 6:00pm	27.0	$5,600	4.83	28.72	14.0	5.1	2.8	0.9	0.5	1.5
+Jeremy Lamb SG	ORL  @  CHA	Sun 6:00pm	26.8	$6,600	4.05	30.34	14.4	5.8	2.0	0.7	0.7	1.8
+Avery Bradley SG	DET  @  GS	Sun 8:30pm	26.7	$5,500	4.85	32.36	14.9	4.5	2.2	1.3	0.3	1.7
+Trevor Booker PF	DEN  @  BKN	Sun 6:00pm	26.6	$4,400	6.05	24.81	11.0	8.3	2.3	1.1	0.3	2.0
+Aaron Gordon PF	ORL  @  CHA	Sun 6:00pm	26.5	$8,000	3.31	29.92	14.2	5.8	1.7	0.8	0.5	1.1
+De'Aaron Fox PG	WSH  @  SAC	Sun 6:00pm	26.3	$5,500	4.79	30.69	14.4	5.2	2.8	0.8	0.2	1.5
+Darren Collison PG	SA  @  IND	Sun 4:30pm	26.1	$6,400	4.07	32.24	13.1	2.8	5.6	1.0	0.1	2.1
+Taurean Prince SF	MIL  @  ATL	Sun 3:30pm	25.8	$5,500	4.69	27.83	11.0	5	2.4	1.3	1.1	2.0
+Reggie Jackson PG	DET  @  GS	Sun 8:30pm	25.3	$6,400	3.96	29.78	14.1	2.6	4.6	1.0	0.2	2.4
+Thaddeus Young PF	SA  @  IND	Sun 4:30pm	24.4	$5,800	4.21	30.61	11.5	6.2	1.7	1.1	0.4	1.6
+Kent Bazemore SG	MIL  @  ATL	Sun 3:30pm	24.2	$5,900	4.09	28.02	11.7	3.3	2.6	1.2	0.9	1.7
+Rudy Gay SF	SA  @  IND	Sun 4:30pm	24.0	$5,500	4.35	24.33	11.8	6	1.3	1.0	0.6	1.8
+John Henson PF	MIL  @  ATL	Sun 3:30pm	23.4	$3,500	6.68	22.85	7.6	6.4	1.0	0.9	1.7	1.2
+Dewayne Dedmon C	MIL  @  ATL	Sun 3:30pm	23.1	$5,300	4.35	25.12	8.0	8	0.9	0.6	1.2	1.3
+Allen Crabbe SF	DEN  @  BKN	Sun 6:00pm	23.0	$4,200	5.48	32.35	13.5	3.9	1.9	0.8	0.2	1.0
+Kelly Oubre SF	WSH  @  SAC	Sun 6:00pm	23.0	$5,300	4.33	35.51	10.4	5.3	1.6	1.2	0.4	1.0
+Mason Plumlee C	DEN  @  BKN	Sun 6:00pm	22.6	$4,200	5.39	19.13	7.7	7.1	1.4	0.9	0.9	1.1
+Spencer Dinwiddie PG	DEN  @  BKN	Sun 6:00pm	22.2	$4,600	4.82	25.99	10.4	3	4.1	1.0	0.2	1.6
+Frank Kaminsky PF	ORL  @  CHA GTD	Sun 6:00pm	22.1	$5,500	4.02	28.32	12.1	4.6	2.0	0.6	0.3	1.2
+Dwyane Wade SG	NY  @  CLE	Sun 7:00pm	22.1	$4,500	4.9	22.98	12.9	3	2.9	0.8	0.1	1.5
+Mike Muscala C	MIL  @  ATL	Sun 3:30pm	22.0	$3,500	6.3	24.80	9.0	6.7	1.2	0.5	0.9	1.0
+Marvin Williams PF	ORL  @  CHA	Sun 6:00pm	21.7	$3,900	5.57	25.86	10.4	5.4	1.1	0.8	0.5	0.7
+Marco Belinelli SG	MIL  @  ATL GTD	Sun 3:30pm	21.7	$4,400	4.93	27.18	13.9	2.6	2.5	0.6	0.1	1.2
+Dwayne Bacon SG	ORL  @  CHA	Sun 6:00pm	21.2	$3,100	6.84	25.68	10.2	4.8	2.1	0.8	0.4	1.5
+Bogdan Bogdanovic SG	WSH  @  SAC	Sun 6:00pm	21.2	$4,300	4.93	25.13	11.1	4	2.2	0.8	0.3	1.3
+Andre Iguodala SF	DET  @  GS	Sun 8:30pm	21.1	$4,200	5.01	27.71	7.8	4	3.3	0.9	0.5	0.7
+Danny Green SG	SA  @  IND	Sun 4:30pm	20.9	$5,200	4.01	27.35	8.6	4	1.7	1.1	0.9	1.1
+Tim Hardaway Jr. SG	NY  @  CLE	Sun 7:00pm	20.6	$4,300	4.78	29.58	13.1	3.1	2.1	0.5	0.1	1.2
+Courtney Lee SG	NY  @  CLE	Sun 7:00pm	20.2	$4,400	4.6	30.17	10.2	3.2	2.2	1.0	0.3	1.0
+Dejounte Murray PG	SA  @  IND	Sun 4:30pm	20.1	$5,400	3.73	25.02	8.8	3.1	4.0	1.0	0.2	2.0
+Malik Monk SG	ORL  @  CHA	Sun 6:00pm	20.0	$3,800	5.27	24.20	9.9	4.1	2.0	0.8	0.4	1.4
+John Collins PF	MIL  @  ATL	Sun 3:30pm	19.9	$5,100	3.9	24.28	9.6	4.6	1.7	0.8	0.4	1.4
+Tristan Thompson C	NY  @  CLE	Sun 7:00pm	19.7	$3,700	5.32	23.36	6.6	7.5	0.6	0.5	0.8	0.7
+Jarrett Jack PG	NY  @  CLE	Sun 7:00pm	19.2	$4,000	4.8	26.25	8.4	2.8	3.5	1.1	0.1	1.4
+Cody Zeller C	ORL  @  CHA GTD	Sun 6:00pm	19.2	$4,300	4.46	21.39	8.5	5.3	1.0	0.7	0.5	0.8
+Stanley Johnson SF	DET  @  GS	Sun 8:30pm	19.1	$4,300	4.44	26.21	7.4	4.4	2.2	1.2	0.4	1.7
+Terrence Ross SG	ORL  @  CHA	Sun 6:00pm	19.1	$3,800	5.02	25.30	10.0	3.1	1.5	1.1	0.3	1.1
+Buddy Hield SG	WSH  @  SAC	Sun 6:00pm	18.9	$4,900	3.87	25.81	11.6	3.2	2.0	0.5	0.1	1.3
+Jamal Murray PG	DEN  @  BKN	Sun 6:00pm	18.9	$4,800	3.93	24.43	10.6	2.9	2.4	0.7	0.3	1.8
+Garrett Temple SG	WSH  @  SAC	Sun 6:00pm	18.7	$3,900	4.79	24.46	7.5	2.7	2.7	1.3	0.4	1.2
+Thon Maker C	MIL  @  ATL	Sun 3:30pm	18.6	$3,200	5.82	22.57	7.7	5.1	1.0	0.4	1.0	0.9
+Ishmael Smith PG	DET  @  GS	Sun 8:30pm	18.4	$3,800	4.84	20.25	8.6	2.5	3.8	0.7	0.2	1.6
+D.J. Augustin PG	ORL  @  CHA	Sun 6:00pm	18.3	$5,900	3.09	26.62	10.3	2	3.9	0.4	0.0	1.5
+Jonathon Simmons SF	ORL  @  CHA	Sun 6:00pm	18.2	$4,200	4.33	25.17	10.6	2.9	1.8	0.7	0.2	1.3
+Bojan Bogdanovic SF	SA  @  IND	Sun 4:30pm	18.2	$3,800	4.78	27.22	12.3	3.3	1.2	0.4	0.1	1.4
+Cory Joseph PG	SA  @  IND	Sun 4:30pm	17.8	$4,200	4.23	24.75	9.0	2.6	2.5	1.0	0.1	1.4
+Kyle Anderson SF	SA  @  IND	Sun 4:30pm	17.6	$4,900	3.58	26.49	6.7	3.8	1.6	0.9	0.8	1.2
+Tony Snell SG	MIL  @  ATL	Sun 3:30pm	17.5	$3,800	4.61	29.05	9.4	3.1	1.6	0.8	0.1	0.7
+Domantas Sabonis PF	SA  @  IND	Sun 4:30pm	17.4	$4,900	3.56	24.19	7.4	4.4	1.9	0.7	0.4	1.4
+Emmanuel Mudiay PG	DEN  @  BKN	Sun 6:00pm	17.4	$3,600	4.84	20.93	9.1	2.6	3.2	0.6	0.1	1.7
+Shelvin Mack PG	ORL  @  CHA	Sun 6:00pm	17.1	$3,400	5.04	20.89	8.5	1.9	3.7	0.8	0.1	1.9
+Patrick Mills PG	SA  @  IND	Sun 4:30pm	16.7	$3,400	4.9	21.39	8.7	1.8	3.2	0.7	0.1	1.4
+Jae Crowder PF	NY  @  CLE	Sun 7:00pm	16.2	$4,300	3.77	22.80	8.9	3.1	1.2	0.6	0.2	0.6
+Al Jefferson C	SA  @  IND	Sun 4:30pm	16.2	$3,700	4.37	16.92	8.1	4.8	1.0	0.2	0.3	0.7
+Kosta Koufos C	WSH  @  SAC	Sun 6:00pm	15.8	$4,200	3.76	18.24	6.6	5.4	0.6	0.4	0.5	0.9
+Kyle Korver SG	NY  @  CLE	Sun 7:00pm	15.8	$3,800	4.15	23.63	8.8	2.6	1.3	0.5	0.4	0.8
+Kyle O'Quinn C	NY  @  CLE	Sun 7:00pm	15.7	$4,300	3.66	13.44	5.5	4.7	1.2	0.3	0.9	0.8
+Michael Beasley PF	NY  @  CLE	Sun 7:00pm	15.4	$3,100	4.96	16.86	8.5	3.4	1.2	0.4	0.4	1.4
+J.R. Smith SG	NY  @  CLE	Sun 7:00pm	15.3	$3,700	4.13	22.47	7.6	2.7	1.5	0.9	0.2	1.1
+Manu Ginobili SG	SA  @  IND	Sun 4:30pm	15.1	$3,600	4.2	18.22	6.4	2.3	2.5	1.0	0.2	1.4
+Matthew Dellavedova PG	MIL  @  ATL	Sun 3:30pm	15.1	$3,300	4.58	23.35	6.4	1.8	4.3	0.5	0.0	1.4
+Malcolm Delaney PG	MIL  @  ATL	Sun 3:30pm	14.8	$3,300	4.48	19.69	5.9	2.5	3.2	0.6	0.2	1.3
+Jodie Meeks SG	WSH  @  SAC	Sun 6:00pm	14.7	$3,400	4.34	19.14	7.6	2.2	1.6	0.9	0.1	0.9
+Jonathan Isaac PF	ORL  @  CHA	Sun 6:00pm	14.7	$3,800	3.87	18.26	6.9	3.6	1.2	0.5	0.5	1.3
+Jarrett Allen C	DEN  @  BKN	Sun 6:00pm	14.7	$3,200	4.58	16.42	7.1	3.3	1.0	0.5	0.5	0.9
+David West PF	DET  @  GS	Sun 8:30pm	14.6	$4,100	3.57	12.23	4.8	3.1	2.2	0.4	0.9	1.1
+Jon Leuer PF	DET  @  GS	Sun 8:30pm	14.5	$3,300	4.41	18.77	6.8	4.2	1.0	0.3	0.3	0.6
+Mike Scott PF	WSH  @  SAC	Sun 6:00pm	14.5	$3,100	4.68	22.13	6.9	3.8	1.1	0.4	0.4	1.0
+Jeff Green SF	NY  @  CLE	Sun 7:00pm	14.3	$4,400	3.25	19.99	8.5	2.6	0.8	0.5	0.3	0.9
+Iman Shumpert SG	NY  @  CLE	Sun 7:00pm	13.9	$3,200	4.35	20.80	7.7	2.4	1.3	0.6	0.2	1.0
+Ian Mahinmi C	WSH  @  SAC	Sun 6:00pm	13.7	$3,100	4.42	15.53	4.5	4	0.8	0.7	0.6	0.7
+Frank Ntilikina PG	NY  @  CLE	Sun 7:00pm	13.6	$3,900	3.47	20.49	7.9	2.5	1.7	0.4	0.1	1.4
+Justin Jackson SF	WSH  @  SAC	Sun 6:00pm	13.2	$3,000	4.41	16.65	6.8	2.9	0.9	0.5	0.3	0.8
+Zaza Pachulia C	DET  @  GS	Sun 8:30pm	13.1	$3,200	4.09	12.69	4.2	4.2	1.3	0.5	0.4	0.8
+Michael Kidd-Gilchrist SF	ORL  @  CHA	Sun 6:00pm	12.8	$4,500	2.85	13.63	4.6	3.6	0.8	0.5	0.5	0.3
+Bismack Biyombo C	ORL  @  CHA	Sun 6:00pm	12.8	$3,300	3.88	15.55	4.3	4.5	0.4	0.2	1.0	1.1
+Miles Plumlee C	MIL  @  ATL GTD	Sun 3:30pm	12.7	$3,000	4.23	16.83	4.6	3.2	0.7	0.7	0.7	1.0
+Doug McDermott SF	NY  @  CLE	Sun 7:00pm	12.6	$3,400	3.72	19.88	7.5	2.2	1.0	0.4	0.1	0.5
+Timofey Mozgov C	DEN  @  BKN	Sun 6:00pm	12.2	$3,200	3.8	14.18	5.9	3.5	0.5	0.2	0.6	1.1
+Johnny O'Bryant III PF	ORL  @  CHA	Sun 6:00pm	12.0	$3,100	3.86	12.32	4.8	3.4	0.8	0.2	0.7	0.8
+Tim Frazier PG	WSH  @  SAC	Sun 6:00pm	11.9	$3,000	3.95	13.88	4.1	1.5	3.1	0.7	0.1	1.1
+Mindaugas Kuzminskas PF	NY  @  CLE	Sun 7:00pm	11.8	$3,000	3.94	17.11	7.3	2.4	0.9	0.4	0.0	0.9
+Kenneth Faried PF	DEN  @  BKN	Sun 6:00pm	11.8	$3,000	3.94	10.95	4.8	3.6	0.4	0.3	0.6	0.6
+Brandon Paul SG	SA  @  IND	Sun 4:30pm	11.7	$3,000	3.89	16.34	5.3	2.6	1.1	0.5	0.3	0.8
+T.J. Leaf PF	SA  @  IND	Sun 4:30pm	11.6	$3,100	3.74	17.54	5.8	3	1.0	0.4	0.1	0.8
+Lance Stephenson SF	SA  @  IND	Sun 4:30pm	11.2	$3,300	3.38	16.57	5.3	1.6	2.1	0.5	0.1	1.0
+Mirza Teletovic SF	MIL  @  ATL	Sun 3:30pm	10.7	$3,100	3.45	16.57	6.6	2.3	0.7	0.2	0.1	0.6
+Jason Smith PF	WSH  @  SAC	Sun 6:00pm	9.7	$3,200	3.04	12.31	4.2	2.7	0.4	0.2	0.6	0.7
+Mario Hezonja SF	ORL  @  CHA	Sun 6:00pm	9.0	$3,000	3.01	13.39	4.4	2.2	0.8	0.3	0.2	0.7
+Tyler Zeller C	DEN  @  BKN	Sun 6:00pm	8.7	$3,000	2.9	9.38	3.9	2.3	0.5	0.2	0.4	0.5
+Sean Kilpatrick SG	DEN  @  BKN	Sun 6:00pm	8.7	$3,200	2.71	10.80	5.5	1.4	1.0	0.3	0.0	0.9
+Treveon Graham SG	ORL  @  CHA GTD	Sun 6:00pm	8.3	$3,000	2.78	13.86	4.2	1.9	0.7	0.3	0.1	0.4
+Patrick McCaw SG	DET  @  GS	Sun 8:30pm	7.4	$3,000	2.46	12.07	3.2	1.1	0.9	0.4	0.2	0.3
+Vince Carter SF	WSH  @  SAC	Sun 6:00pm	6.5	$3,000	2.17	9.04	3.2	1	0.6	0.4	0.1	0.3
+Jose Calderon PG	NY  @  CLE	Sun 7:00pm	6.5	$3,100	2.09	9.88	2.8	1.1	1.3	0.3	0.0	0.5
+Nick Young SG	DET  @  GS	Sun 8:30pm	6.3	$3,000	2.08	8.91	3.9	1	0.5	0.2	0.1	0.5
+Lance Thomas SF	NY  @  CLE	Sun 7:00pm	6.1	$3,000	2.02	10.35	3.1	1.1	0.7	0.2	0.1	0.3
+Malachi Richardson SG	WSH  @  SAC	Sun 6:00pm	5.7	$3,000	1.88	7.77	3.1	1	0.5	0.3	0.0	0.3
+Jordan Bell PF	DET  @  GS	Sun 8:30pm	5.3	$3,299	1.59	6.94	2.6	1.3	0.4	0.1	0.2	0.4
+Josh Magette PG	MIL  @  ATL	Sun 3:30pm	4.9	$3,000	1.63	5.76	2.5	1	0.4	0.2	0.1	0.3
+Luke Kennard SG	DET  @  GS	Sun 8:30pm	4.2	$3,000	1.41	4.51	1.7	0.9	0.5	0.3	0.1	0.5
+Guillermo Hernangomez C	NY  @  CLE	Sun 7:00pm	4.2	$3,500	1.19	4.30	2.0	1.3	0.2	0.1	0.1	0.3
+Marreese Speights C	ORL  @  CHA	Sun 6:00pm	3.6	$3,000	1.2	3.62	1.6	1	0.2	0.1	0.1	0.1
+Jason Terry SG	MIL  @  ATL	Sun 3:30pm	3.4	$3,000	1.13	5.94	1.5	0.5	0.4	0.2	0.1	0.2
+Darrell Arthur PF	DEN  @  BKN	Sun 6:00pm	3.3	$3,000	1.09	4.13	1.7	0.8	0.2	0.1	0.1	0.3
+Ron Baker PG	NY  @  CLE GTD	Sun 7:00pm	3.2	$3,100	1.02	5.27	1.4	0.6	0.7	0.2	0.0	0.6
+Joe Harris SF	DEN  @  BKN	Sun 6:00pm	2.7	$3,000	0.88	3.84	1.5	0.5	0.3	0.1	0.0	0.2
+Langston Galloway PG	DET  @  GS	Sun 8:30pm	2.6	$3,100	0.84	4.52	1.5	0.5	0.2	0.1	0.0	0.1
+Henry Ellenson PF	DET  @  GS	Sun 8:30pm	2.5	$3,300	0.77	3.58	1.3	0.9	0.1	0.1	0.0	0.3
+Frank Mason PG	WSH  @  SAC	Sun 6:00pm	2.4	$3,000	0.81	3.20	1.2	0.7	0.2	0.1	0.0	0.2
+Luke Babbitt PF	MIL  @  ATL	Sun 3:30pm	2.4	$3,000	0.8	3.88	1.3	0.5	0.2	0.1	0.0	0.1
+Joseph Young PG	SA  @  IND	Sun 4:30pm	2.4	$3,000	0.79	2.59	1.4	0.4	0.2	0.1	0.0	0.1
+Anthony Tolliver PF	DET  @  GS	Sun 8:30pm	2.3	$3,000	0.76	3.08	0.9	0.6	0.1	0.1	0.1	0.1
+Davis Bertans PF	SA  @  IND	Sun 4:30pm	2.1	$3,000	0.71	3.16	1.0	0.4	0.1	0.1	0.1	0.1
+Arron Afflalo SG	ORL  @  CHA	Sun 6:00pm	2.1	$3,000	0.71	3.68	1.3	0.4	0.3	0.0	0.0	0.1
+Malik Beasley SG	DEN  @  BKN	Sun 6:00pm	2.1	$3,000	0.7	2.69	1.1	0.3	0.3	0.1	0.0	0.1
+Kevon Looney PF	DET  @  GS	Sun 8:30pm	1.7	$3,300	0.52	2.36	0.8	0.6	0.0	0.0	0.1	0.1
+Tomas Satoransky PG	WSH  @  SAC	Sun 6:00pm	1.7	$3,000	0.57	2.32	0.7	0.3	0.3	0.1	0.0	0.1
+Ramon Sessions PG	NY  @  CLE	Sun 7:00pm	1.5	$3,800	0.39	2.07	0.7	0.2	0.3	0.1	0.0	0.2
+Channing Frye C	NY  @  CLE	Sun 7:00pm	1.4	$3,000	0.48	1.89	0.9	0.4	0.1	0.0	0.0	0.1
+Ante Zizic C	NY  @  CLE	Sun 7:00pm	1.4	$3,000	0.47	1.74	0.7	0.3	0.1	0.0	0.1	0.1
+DeAndre Liggins SG	MIL  @  ATL	Sun 3:30pm	1.1	$3,000	0.38	2.22	0.5	0.2	0.2	0.1	0.0	0.2
+Damien Wilkins SG	SA  @  IND	Sun 4:30pm	1.1	$3,000	0.37	1.39	0.4	0.3	0.1	0.1	0.0	0.1
+Omri Casspi SF	DET  @  GS	Sun 8:30pm	0.9	$3,100	0.29	1.77	0.5	0.3	0.1	0.0	0.0	0.1
+Damyean Dotson SG	NY  @  CLE	Sun 7:00pm	0.9	$3,000	0.3	1.24	0.4	0.3	0.1	0.0	0.0	0.0
+Carrick Felix SF	WSH  @  SAC	Sun 6:00pm	0.9	$3,000	0.3	1.15	0.5	0.2	0.1	0.0	0.0	0.0
+Trey Lyles PF	DEN  @  BKN	Sun 6:00pm	0.9	$3,000	0.29	1.34	0.6	0.3	0.0	0.0	0.0	0.1
+Bryn Forbes SG	SA  @  IND	Sun 4:30pm	0.7	$3,000	0.23	1.64	0.4	0.2	0.1	0.0	0.0	0.1
+Quinn Cook PG	DET  @  GS	Sun 8:30pm	0.7	$3,000	0.22	0.94	0.5	0.1	0.1	0.0	0.0	0.1
+Derrick White PG	SA  @  IND	Sun 4:30pm	0.0	$3,000	0	0.09	0.0	0	0.0	0.0	0.0	0.0
+Darrun Hilliard SG	SA  @  IND	Sun 4:30pm	0.0	$3,000	0	0.09	0.0	0	0.0	0.0	0.0	0.0
+Glenn Robinson III SF	SA  @  IND OUT	Sun 4:30pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Ike Anigbogu C	SA  @  IND	Sun 4:30pm	0.0	$3,000	0	0.10	0.0	0	0.0	0.0	0.0	0.0
+Myles Turner C	SA  @  IND OUT	Sun 4:30pm	0.0	$8,700	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+JaKarr Sampson SF	WSH  @  SAC	Sun 6:00pm	0.0	$3,000	0	0.12	0.0	0	0.0	0.0	0.0	0.0
+Joffrey Lauvergne C	SA  @  IND OUT	Sun 4:30pm	0.0	$3,100	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Jack Cooley C	WSH  @  SAC	Sun 6:00pm	0.0	$3,000	0	0.11	0.0	0	0.0	0.0	0.0	0.0
+George Hill PG	WSH  @  SAC OUT	Sun 6:00pm	0.0	$4,700	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Markieff Morris PF	WSH  @  SAC OUT	Sun 6:00pm	0.0	$6,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Zach Randolph PF	WSH  @  SAC OUT	Sun 6:00pm	0.0	$4,700	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Edmond Sumner PG	SA  @  IND OUT	Sun 4:30pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Isaiah Taylor PG	MIL  @  ATL OUT	Sun 3:30pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Jabari Parker F	MIL  @  ATL OUT	Sun 3:30pm	0.0	N/A	N/A	0.00	0.0	0	0.0	0.0	0.0	0.0
+Rashad Vaughn SG	MIL  @  ATL OUT	Sun 3:30pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Greg Monroe C	MIL  @  ATL	Sun 3:30pm	0.0	$3,700	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Ersan Ilyasova PF	MIL  @  ATL OUT	Sun 3:30pm	0.0	$4,400	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Chris McCullough PF	WSH  @  SAC	Sun 6:00pm	0.0	$3,000	0	0.10	0.0	0	0.0	0.0	0.0	0.0
+DeAndre Bembry SF	MIL  @  ATL OUT	Sun 3:30pm	0.0	$3,600	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Nicolas Brussino SF	MIL  @  ATL OUT	Sun 3:30pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Kawhi Leonard SF	SA  @  IND OUT	Sun 4:30pm	0.0	$8,600	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Sterling Brown SG	MIL  @  ATL	Sun 3:30pm	0.0	$3,000	0	0.10	0.0	0	0.0	0.0	0.0	0.0
+Tyler Dorsey PG	MIL  @  ATL	Sun 3:30pm	0.0	$3,000	0	0.12	0.0	0	0.0	0.0	0.0	0.0
+D.J. Wilson PF	MIL  @  ATL	Sun 3:30pm	0.0	$3,000	0	0.08	0.0	0	0.0	0.0	0.0	0.0
+Tony Parker PG	SA  @  IND OUT	Sun 4:30pm	0.0	$3,300	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Damian Jones C	DET  @  GS OUT	Sun 8:30pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Cedi Osman SF	NY  @  CLE	Sun 7:00pm	0.0	$3,000	0	0.11	0.0	0	0.0	0.0	0.0	0.0
+Shaun Livingston PG	DET  @  GS OUT	Sun 8:30pm	0.0	$3,400	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Derrick Rose PG	NY  @  CLE OUT	Sun 7:00pm	0.0	$5,100	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Joakim Noah C	NY  @  CLE OUT	Sun 7:00pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Monte Morris PG	DEN  @  BKN OUT	Sun 6:00pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+JaVale McGee C	DET  @  GS OUT	Sun 8:30pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Reggie Bullock SF	DET  @  GS OUT	Sun 8:30pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Boban Marjanovic C	DET  @  GS OUT	Sun 8:30pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Luis Montero SF	DET  @  GS OUT	Sun 8:30pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Eric Moreland PF	DET  @  GS OUT	Sun 8:30pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Dwight Buycks PG	DET  @  GS GTD	Sun 8:30pm	0.0	$3,000	0	0.09	0.0	0	0.0	0.0	0.0	0.0
+Tyler Lydon PF	DEN  @  BKN OUT	Sun 6:00pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Isaiah Whitehead PG	DEN  @  BKN OUT	Sun 6:00pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Elfrid Payton PG	ORL  @  CHA OUT	Sun 6:00pm	0.0	$6,900	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Adreian Payne PF	ORL  @  CHA OUT	Sun 6:00pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Michael Carter-Williams PG	ORL  @  CHA OUT	Sun 6:00pm	0.0	$3,400	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Julyan Stone PG	ORL  @  CHA OUT	Sun 6:00pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Harry Giles PF	WSH  @  SAC OUT	Sun 6:00pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Marcus Paige PG	ORL  @  CHA	Sun 6:00pm	0.0	$3,000	0	0.10	0.0	0	0.0	0.0	0.0	0.0
+Wesley Iwundu SF	ORL  @  CHA	Sun 6:00pm	0.0	$3,000	0	0.11	0.0	0	0.0	0.0	0.0	0.0
+Quincy Acy PF	DEN  @  BKN OUT	Sun 6:00pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+DeMarre Carroll SF	DEN  @  BKN GTD	Sun 6:00pm	0.0	$6,100	0	0.00	0.0	0	0.0	0.0	0.0	0.0
+Mangok Mathiang C	ORL  @  CHA	Sun 6:00pm	0.0	N/A	N/A	0.10	0.0	0	0.0	0.0	0.0	0.0
+Khem Birch PF	ORL  @  CHA OUT	Sun 6:00pm	0.0	N/A	N/A	0.00	0.0	0	0.0	0.0	0.0	0.0
+Georgios Papagiannis C	WSH  @  SAC OUT	Sun 6:00pm	0.0	$3,000	0	0.00	0.0	0	0.0	0.0	0.0	0.0
